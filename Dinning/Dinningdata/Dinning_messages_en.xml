@@ -6,7 +6,10 @@
 
 
 
-  <data name="en_pano580_title"><![CDATA[Dinning3]]></data>
+  <data name="en_pano584_title"><![CDATA[Dinning3_edited-1]]></data>
+
+
+  <data name="en_pano586_title"><![CDATA[Untitled_Panorama1]]></data>
 
 
 
@@ -45,6 +48,9 @@
   <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
   <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
   <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
 
 
 
